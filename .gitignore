@@ -1,0 +1,11 @@
+
+# Binaries
+target/
+
+# Sheets
+.~lock*
+*.xlsx
+
+# IDE
+.project
+.settings/

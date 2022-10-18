@@ -1,0 +1,14 @@
+[
+  {
+    "name": "com.github.anthonywww.spiderman.jul.CustomHandler",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ]
+  },
+  {
+    "name": "com.github.anthonywww.spiderman.jul.CustomFormatter",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ]
+  }
+]
